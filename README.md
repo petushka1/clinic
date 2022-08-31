@@ -1,7 +1,13 @@
 # curriculum-databases-projects-template
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+This project is built in line with SQL (postgreSQL) task accordingly to the MIcroverse Curriculum. The project can be used as a template for creating data base and querying data from it.
+
+## Highlights
+
+- Learn and build DB in line with ER diagram
+- Complete query audit
+- Increase DB Perfomance
+- Implement FK Indexes
 
 
 ## Getting Started
@@ -15,17 +21,19 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Nadya**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@petushka1](https://github.com/petushka1)
+- LinkedIn: [LinkedIn](http://www.linkedin.com/in/nadyalevina)
 
-👤 **Author2**
+## Collaborators
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Toma John Musa**
+
+- GitHub: [@Kamba56](https://github.com/Kamba56)
+- Twitter: [@Kamba_TJ](https://twitter.com/Kamba_TJ)
+- LinkedIn: [Toma](https://linkedin.com/in/kamba56)
+
 
 ## 🤝 Contributing
 
@@ -39,9 +47,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Microverse](https://www.microverse.org/) curriculum materials
+- [PostgreSQL](https://www.postgresql.org/) documentation
 
 ## 📝 License
 
